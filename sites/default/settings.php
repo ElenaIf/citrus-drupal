@@ -812,5 +812,8 @@ $databases['default']['default'] = array (
   'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
   'driver' => 'mysql',
 );
+/* $client = new MongoDB\Client(
+    'mongodb+srv://admin:<password12345>@clusterartshop.phb8i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority');
+$db = $client->test; */
 $settings['config_sync_directory'] = 'sites/default/files/config_oFwmoucllOzTJfoxfBeKzJM0NhBh4sdxT7EJ6VlIugNBmkDLoKEBIuoaeXcfv7gmsW6Z_vTGng/sync';
 
