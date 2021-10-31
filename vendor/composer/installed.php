@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '810e6b2a31db9f9a02da98945778be9ac6e7ff96',
     'name' => 'drupal/legacy-project',
   ),
   'versions' => 
@@ -28,6 +28,15 @@
       array (
       ),
       'reference' => '311040bd78ea2ea82105dd1f17205c449ac8de47',
+    ),
+    'commerceguys/intl' => 
+    array (
+      'pretty_version' => 'v1.1.0',
+      'version' => '1.1.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '90b4f75c4917927a1960c0dcaa002a91ab97f5d5',
     ),
     'composer/installers' => 
     array (
@@ -98,6 +107,15 @@
       array (
       ),
       'reference' => '8.x-1.9',
+    ),
+    'drupal/admin_toolbar' => 
+    array (
+      'pretty_version' => '3.0.3',
+      'version' => '3.0.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '3.0.3',
     ),
     'drupal/aggregator' => 
     array (
@@ -203,6 +221,15 @@
       array (
         0 => '9.2.7',
       ),
+    ),
+    'drupal/commerce' => 
+    array (
+      'pretty_version' => '2.27.0',
+      'version' => '2.27.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-2.27',
     ),
     'drupal/config' => 
     array (
@@ -501,12 +528,30 @@
         0 => '9.2.7',
       ),
     ),
+    'drupal/entity' => 
+    array (
+      'pretty_version' => '1.2.0',
+      'version' => '1.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.2',
+    ),
     'drupal/entity_reference' => 
     array (
       'replaced' => 
       array (
         0 => '9.2.7',
       ),
+    ),
+    'drupal/entity_reference_revisions' => 
+    array (
+      'pretty_version' => '1.9.0',
+      'version' => '1.9.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.9',
     ),
     'drupal/field' => 
     array (
@@ -585,6 +630,15 @@
         0 => '9.2.7',
       ),
     ),
+    'drupal/inline_entity_form' => 
+    array (
+      'pretty_version' => '1.0.0-rc9',
+      'version' => '1.0.0.0-RC9',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.0-rc9',
+    ),
     'drupal/inline_form_errors' => 
     array (
       'replaced' => 
@@ -622,12 +676,12 @@
     ),
     'drupal/legacy-project' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '810e6b2a31db9f9a02da98945778be9ac6e7ff96',
     ),
     'drupal/link' => 
     array (
@@ -748,6 +802,15 @@
         0 => '9.2.7',
       ),
     ),
+    'drupal/profile' => 
+    array (
+      'pretty_version' => '1.3.0',
+      'version' => '1.3.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.3',
+    ),
     'drupal/quickedit' => 
     array (
       'replaced' => 
@@ -825,6 +888,15 @@
         0 => '9.2.7',
       ),
     ),
+    'drupal/state_machine' => 
+    array (
+      'pretty_version' => '1.5.0',
+      'version' => '1.5.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.5',
+    ),
     'drupal/statistics' => 
     array (
       'replaced' => 
@@ -866,6 +938,15 @@
       array (
         0 => '9.2.7',
       ),
+    ),
+    'drupal/token' => 
+    array (
+      'pretty_version' => '1.9.0',
+      'version' => '1.9.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.9',
     ),
     'drupal/toolbar' => 
     array (
