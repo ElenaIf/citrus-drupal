@@ -1,0 +1,39 @@
+uuid: cba89bcc-9918-430f-a0a1-aafc5766cdb5
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.news.field_newsimage
+    - field.field.node.news.field_shortdescription
+    - node.type.news
+  module:
+    - image
+    - user
+id: node.news.default
+targetEntityType: node
+bundle: news
+mode: default
+content:
+  field_newsimage:
+    weight: 102
+    label: visually_hidden
+    settings:
+      image_style: ''
+      image_link: ''
+    third_party_settings: {  }
+    type: image
+    region: content
+  field_shortdescription:
+    weight: 103
+    label: visually_hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  links:
+    weight: 100
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden: {  }

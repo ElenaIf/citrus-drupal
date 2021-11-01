@@ -1,0 +1,21 @@
+uuid: 2972af38-8933-4a91-8e2e-d9d56df12c24
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_title
+    - node.type.newspage
+  module:
+    - text
+id: node.newspage.field_title
+field_name: field_title
+entity_type: node
+bundle: newspage
+label: Title
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text
