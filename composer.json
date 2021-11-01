@@ -19,8 +19,11 @@
         "drupal/address": "~1.0",
         "drupal/admin_toolbar": "^3.0",
         "drupal/commerce": "^2.27",
+<<<<<<< HEAD
         "drupal/commerce_bulk": "^1.0@beta",
         "drupal/commerce_shipping": "^2.2",
+=======
+>>>>>>> 55fc6f58042aa6262e9d6781e1be2ed7b28ca594
         "drupal/core-composer-scaffold": "^9.2",
         "drupal/core-project-message": "^9.2",
         "drupal/core-recommended": "^9.2",
