@@ -1,0 +1,19 @@
+uuid: dca05f51-1a2b-4dc9-91c4-72aefd3402d4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_shortdescription
+    - node.type.news
+id: node.news.field_shortdescription
+field_name: field_shortdescription
+entity_type: node
+bundle: news
+label: ShortDescription
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
