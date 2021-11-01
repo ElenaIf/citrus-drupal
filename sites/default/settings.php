@@ -813,4 +813,13 @@ $databases['default']['default'] = array (
   'driver' => 'mysql',
 );
 $settings['config_sync_directory'] = 'sites/default/files/config_oFwmoucllOzTJfoxfBeKzJM0NhBh4sdxT7EJ6VlIugNBmkDLoKEBIuoaeXcfv7gmsW6Z_vTGng/sync';
-
+#$databases['default']['default'] = array (
+# 'database' => 'd58ftpi4vkuhu7',
+#'username' => 'nqnhnubdbdzbfy',
+# 'password' => '8f6c96f9d5a5d1cf01a39547fdbdc808f9f80e471c6a09e2cf47ea719f0020b4',
+ # 'prefix' => '',
+ # 'host' => 'ec2-52-3-239-135.compute-1.amazonaws.com',
+# 'port' => '5432',
+# 'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
+# 'driver' => 'mysql',
+#);
